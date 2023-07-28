@@ -101,7 +101,7 @@ export const orders = [
     className: ["payson"],
   },
   {
-    name: "022623 152 RHETT GORDON 10P PU 04:00 PM",
+    name: "022623 152 PAULA SUAREZ 10P PU 04:00 PM",
     pickupDate: "2023-07-26T23:00:00Z",
     id: "63fbac5d4b689f000800d878",
     restaurant: {
@@ -110,12 +110,12 @@ export const orders = [
     },
     utcOffset: "-07:00",
     start: "2023-07-26T08:00:00",
-    title: "022623 152 RHETT GORDON 10P PU 04:00 PM",
+    title: "022623 152 PAULA SUAREZ 10P PU 04:00 PM",
     end: "2023-07-26T08:01:00",
     className: ["payson"],
   },
   {
-    name: "022623 152 RHETT GORDON 10P PU 04:00 PM",
+    name: "022623 152 JOSE LOZADA 10P PU 04:00 PM",
     pickupDate: "2023-07-26T23:00:00Z",
     id: "63fbac5d4b689f000800d878",
     restaurant: {
@@ -124,12 +124,12 @@ export const orders = [
     },
     utcOffset: "-07:00",
     start: "2023-07-26T09:00:00",
-    title: "022623 152 RHETT GORDON 10P PU 04:00 PM",
+    title: "022623 152 JOSE LOZADA 10P PU 04:00 PM",
     end: "2023-07-26T09:01:00",
     className: ["payson"],
   },
   {
-    name: "022623 152 RHETT GORDON 10P PU 04:00 PM",
+    name: "022623 152 ANDRES VEGA 10P PU 04:00 PM",
     pickupDate: "2023-07-26T23:00:00Z",
     id: "63fbac5d4b689f000800d878",
     restaurant: {
@@ -138,12 +138,12 @@ export const orders = [
     },
     utcOffset: "-07:00",
     start: "2023-07-26T10:00:00",
-    title: "022623 152 RHETT GORDON 10P PU 04:00 PM",
+    title: "022623 152 ANDRES VEGA 10P PU 04:00 PM",
     end: "2023-07-26T10:01:00",
     className: ["payson"],
   },
   {
-    name: "022623 152 RHETT GORDON 10P PU 04:00 PM",
+    name: "022623 152 ISABEL OSORIO 10P PU 04:00 PM",
     pickupDate: "2023-07-26T23:00:00Z",
     id: "63fbac5d4b689f000800d878",
     restaurant: {
@@ -152,12 +152,12 @@ export const orders = [
     },
     utcOffset: "-07:00",
     start: "2023-07-26T11:00:00",
-    title: "022623 152 RHETT GORDON 10P PU 04:00 PM",
+    title: "022623 152 ISABEL OSORIO 10P PU 04:00 PM",
     end: "2023-07-26T11:01:00",
     className: ["payson"],
   },
   {
-    name: "022623 152 RHETT GORDON 10P PU 04:00 PM",
+    name: "022623 152 PAULA SANCHEZ 10P PU 04:00 PM",
     pickupDate: "2023-07-26T23:00:00Z",
     id: "63fbac5d4b689f000800d878",
     restaurant: {
@@ -166,7 +166,7 @@ export const orders = [
     },
     utcOffset: "-07:00",
     start: "2023-07-26T07:30:00",
-    title: "022623 152 RHETT GORDON 10P PU 04:00 PM",
+    title: "022623 152 PAULA SANCHEZ 10P PU 04:00 PM",
     end: "2023-07-26T07:31:00",
     className: ["payson"],
   },
