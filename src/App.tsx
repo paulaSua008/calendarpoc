@@ -59,7 +59,6 @@ export default function DemoApp() {
       setTop(window.innerHeight - 550);
     }
     if (Number(event.el.getBoundingClientRect().x.toFixed(2)) > middleWidth) {
-      //**ACAAA */
       setLeft(Number(event.el.getBoundingClientRect().x.toFixed(2)) - 448);
     } else {
       setLeft(
@@ -139,22 +138,6 @@ export default function DemoApp() {
               <div style={{ width: "100%", textAlign: "center" }}>
                 <p>Name: {info?.event?._def?.title}</p>
               </div>
-              {/*<button
-                onClick={() => {
-                  console.log(
-                    info?.event?._def?.extendedProps?.restaurant?.name
-                  );
-                  console.log("info", info);
-                  const newEvent = eventos.map(
-                    (el) =>
-                      el.restaurant.name ===
-                      info?.event?._def?.extendedProps?.restaurant?.name
-                  );
-                  setEventos([]);
-                }}
-              >
-                boton
-              </button>*/}
             </div>
           </div>
         </div>
