@@ -87,6 +87,20 @@ export const orders = [
     className: ["payson"],
   },
   {
+    name: "022623 152 CESAR PEREZ 10P PU 04:00 PM",
+    pickupDate: "2023-07-26T12:30:00Z",
+    id: "63fbac5d4b689f000800d878",
+    restaurant: {
+      id: "Payson (Dine In, Carry Out, Drive Thru) Payson",
+      name: "52f8528bbea147fd98d25612e9634be9",
+    },
+    utcOffset: "-07:00",
+    start: "2023-07-26T12:30:00",
+    title: "022623 152 CESAR PEREZ 10P PU 04:00 PM",
+    end: "2023-07-26T12:31:00",
+    className: ["payson"],
+  },
+  {
     name: "022623 152 MARTIN PEREZ 10P PU 04:00 PM",
     pickupDate: "2023-07-26T23:00:00Z",
     id: "63fbac5d4b689f000800d878",
