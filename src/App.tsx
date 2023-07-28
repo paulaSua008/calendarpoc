@@ -12,7 +12,7 @@ export default function DemoApp() {
   const [top, setTop] = useState(0);
 
   const [open, setOpen] = useState(false);
-  const [info, setInfo] = useState(undefined);
+  const [info, setInfo] = useState<any>(undefined);
   const [eventos, setEventos] = useState(
     orders.filter((or) => or.restaurant.name === restaurants[0].id)
   );
